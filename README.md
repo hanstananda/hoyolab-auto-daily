@@ -135,6 +135,8 @@ You may use Discord webhook to send notifications to your channel!
 
 5. You may trigger the check in manually and see if the messages got sent
 
+6. To let the bot notify you, add  a new repository <em>secret</em> named <code>DISCORD_USER</code> and put your Discord username as the value of the secrets. 
+
 ## FAQ
 
 ### Is this safe?
